@@ -1,2 +1,1 @@
-# OS
-OS em C#
+# POO-OS
